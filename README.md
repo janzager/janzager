@@ -2,7 +2,7 @@
 
 I'm Jan a computer science student from Germany and a ☕ enthusiast..
 
-## Skills and Experience
+*Skills and Experience*
 <br>
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
