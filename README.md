@@ -15,5 +15,4 @@ I'm Jan a computer science student from Germany and a ☕ enthusiast..
 - 🔭 I’m currently working on ByteFox.net 
 - 🌱 I'm currently working on improving C++ and C# skills. 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrokenStudio&show_icons=true&count_private=true&theme=dark)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BrokenStudio&theme=dark)  
