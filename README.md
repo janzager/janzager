@@ -4,7 +4,7 @@ I'm Jan a computer science student from Germany and a ☕ enthusiast..
 
 **Skills and Experience**
 <br>
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdka&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
