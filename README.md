@@ -12,7 +12,7 @@ I'm Jan a computer science student from Germany and a ☕ enthusiast..
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
-- 🔭 I’m currently working on ByteFox.net 
+- 🔭 I’m currently working on Polaris.
 - 🌱 I'm currently working on improving C++ and C# skills. 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=janzager&theme=dark)  
