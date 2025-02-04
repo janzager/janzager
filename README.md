@@ -17,5 +17,3 @@ I'm Jan a computer science student from Germany and a ☕ enthusiast..
 
 - 🔭 I’m currently working on ByteFox.
 - 🌱 I'm currently working on improving my TypeScript and Rust skills. 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=janzager&theme=dark)  
